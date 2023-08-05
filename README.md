@@ -15,9 +15,10 @@ The User Manager App is a user management application designed to simplify user 
 ### Web Application
 
 <p align="center">
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/f1dccd6f-a016-4ba1-a084-5a532190cd7e" width="45%"  />
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/a362e5e6-9171-4a70-8618-ea8a7eec4dd9" width="45%" />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/4725d44b-eb87-4e3b-9d34-16aa100154f8" width="45%"  />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/78878120-cbb2-4037-a37f-5d1cf73cf5f5" width="45%" />
 </p>
+
 
 
 
@@ -26,11 +27,16 @@ The User Manager App is a user management application designed to simplify user 
 ### Mobile Application
 
 <p align="center">
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/0f03fdca-993d-48d6-9020-efa7046e61de" width="24%" style="margin-right: 1%;" />
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/7500162c-0cf5-4c98-91d9-cf1092cd4cdb" width="24%" style="margin-right: 1%;" />
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/6017f33b-d205-4942-bd43-c6780adf7668" width="24%" style="margin-right: 1%;" />
-  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/9c7d3607-95a0-49ff-8406-f5ec8b8883b0" width="24%" style="margin-right: 1%;" />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/cf2b8190-dc38-4952-ab34-ad720dbb3ed5" width="24%" style="margin-right: 1%;" />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/c50c86a6-be6c-494c-84f9-5fe328ee0671" width="24%" style="margin-right: 1%;" />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/3145683d-72c6-46e7-9161-d29abbe5da3e" width="24%" style="margin-right: 1%;" />
+  <img src="https://github.com/afluxmhd/user-manager/assets/93920274/1900bb9d-8dff-4842-8a1e-f61521c11cbf" width="24%" style="margin-right: 1%;" />
 </p>
+
+
+
+
+
 
 
 ## Technologies Utilized
