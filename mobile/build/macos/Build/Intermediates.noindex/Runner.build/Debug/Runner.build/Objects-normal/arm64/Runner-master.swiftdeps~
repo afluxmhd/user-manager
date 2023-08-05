@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9df5c2b27988e37b30fcc59cdbb494d57e08825c14d5bde77d5fe6eb33d557bb"
+build_start_time: [1690606946, 157063000]
+build_end_time: [1690606946, 201468000]
+inputs:
+  "/Users/afluxmhd/Vs flutter/crud_flutter_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1690606933, 483329858]
+  "/Users/afluxmhd/Vs flutter/crud_flutter_app/macos/Runner/AppDelegate.swift": !private [1634285200, 0]
+  "/Users/afluxmhd/Vs flutter/crud_flutter_app/macos/Runner/MainFlutterWindow.swift": !private [1683547620, 744464777]
